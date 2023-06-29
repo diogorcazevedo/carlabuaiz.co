@@ -1,13 +1,11 @@
-## Front End e-coomerce Carla Buaiz Joias
+## FrontEnd Ecommerce Carla Buaiz Joias
 
 Tecnologias
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
+React
+# and
+NextJS
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
